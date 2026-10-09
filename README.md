@@ -1,4 +1,12 @@
-## Hi there 👋
+<p>
+  I decline to accept the end of man... I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance.
+</p>
+<p> 
+-William Faulkner’s speech at the Nobel Banquet at the City Hall in Stockholm, December 10, 1950
+</p>
+
+
+# Hi there 👋
 
 <!--
 **Marcothegreat32/MarcoTheGreat32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
