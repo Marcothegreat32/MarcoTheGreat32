@@ -1,11 +1,11 @@
-<h1>Marcus Davis</h1>
+<h1>Marcus Davis - Forward Deployed Engineer in Training</h1>
 
 <br>
 
 <p style="text-align: center;">
   "I decline to accept the end of man... I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance."
 </p>
-<sub style="text-align: right;"> 
+<sub> 
 -William Faulkner’s speech at the Nobel Banquet at the City Hall in Stockholm, December 10, 1950
 <sub>
 
@@ -60,10 +60,6 @@
      alt="A monolith"
      width="100%" />
 
-<h3>THE NEXT ITERATION</h3>
-
-<sub>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; IMPROVE</sub>
-
 </td>
 
 <td width="33%" valign="top">
@@ -75,9 +71,6 @@
 
 **LiturgyStack**
 > APIs for Catholic tech devlopment.
-
-**The Magnolia Feed**
-> Building a modern web experience for a Mississippi creator newsletter.
 
 **Independent Development**
 > Experimenting with software, system architecture, and practical applications.
@@ -106,5 +99,6 @@ Build something meaningful.
 <div align="center">
 
   <sub>ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
+  <sub>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; IMPROVE</sub>
 
 </div>
