@@ -1,11 +1,15 @@
-<p>
-  I decline to accept the end of man... I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance.
+<h1>Marcus Davis</h1>
+
+<br>
+
+<p style="text-align: center;">
+  "I decline to accept the end of man... I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance."
 </p>
-<p> 
+<sub style="text-align: right;"> 
 -William Faulkner’s speech at the Nobel Banquet at the City Hall in Stockholm, December 10, 1950
-</p>
+<sub>
 
-
+<br>
 
 <div align="center">
 
@@ -23,8 +27,8 @@
 **FRONTEND**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js"
-       alt="HTML, CSS, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react"
+       alt="HTML, CSS, JavaScript, React" />
 </p>
 
 **BACKEND**
@@ -37,8 +41,8 @@
 **DATABASES**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql"
-       alt="PostgreSQL and MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"
+       alt="PostgreSQL, MySQL, MongoDB" />
 </p>
 
 **DEVELOPER TOOLS**
@@ -53,7 +57,7 @@
 <td width="34%" align="center" valign="middle">
 
 <img src="assets/monolith.png"
-     alt="A black monolith beneath a star-filled sky"
+     alt="A monolith"
      width="100%" />
 
 <h3>THE NEXT ITERATION</h3>
@@ -69,8 +73,8 @@
 
 **CURRENT PROJECTS**
 
-**HealthMate**
-> Exploring AI-powered tools for understanding health insurance policies and medical bills.
+**LiturgyStack**
+> APIs for Catholic tech devlopment.
 
 **The Magnolia Feed**
 > Building a modern web experience for a Mississippi creator newsletter.
