@@ -58,7 +58,11 @@
 
 <img src="assets/monolith.png"
      alt="A monolith"
-     width="100%" />
+     style= "
+     width=100% 
+     -webkit-mask-image: radial-gradient(circle, black 50%, transparent 100%);
+     mask-image: radial-gradient(circle, black 50%, transparent 100%);"
+  />
 
 </td>
 
@@ -82,7 +86,7 @@
 ---
 
 **CURRENTLY LEARNING**
-<ul>
+<ul padding-bottom: 20px;>
 <li> Computer science fundamentals</li>
 <li> Linux and operating systems</li>
 <li> Database design and SQL</li>
@@ -105,6 +109,5 @@
 <div align="center">
 
   <sub>ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
-  <p>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; IMPROVE</p
 
 </div>
