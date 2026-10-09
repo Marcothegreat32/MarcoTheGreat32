@@ -27,7 +27,7 @@
 **FRONTEND**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react"
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=3"
        alt="HTML, CSS, JavaScript, React" />
 </p>
 
@@ -41,14 +41,14 @@
 **DATABASES**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3"
        alt="PostgreSQL, MySQL, MongoDB" />
 </p>
 
 **DEVELOPER TOOLS**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode"
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=3"
        alt="Git, GitHub, Linux, Visual Studio Code" />
 </p>
 
