@@ -6,19 +6,101 @@
 </p>
 
 
-# Hi there 👋
 
-<!--
-**Marcothegreat32/MarcoTheGreat32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <sub>BUILD &nbsp; / &nbsp; LEARN &nbsp; / &nbsp; EXPLORE</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">01 / TECH STACK</h3>
+<p align="center"><sub>TOOLS THAT POWER THE JOURNEY</sub></p>
+
+**FRONTEND**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js"
+       alt="HTML, CSS, JavaScript" />
+</p>
+
+**BACKEND**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python"
+       alt="Python" />
+</p>
+
+**DATABASES**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql"
+       alt="PostgreSQL and MySQL" />
+</p>
+
+**DEVELOPER TOOLS**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode"
+       alt="Git, GitHub, Linux, Visual Studio Code" />
+</p>
+
+</td>
+
+<td width="34%" align="center" valign="middle">
+
+<img src="assets/monolith.png"
+     alt="A black monolith beneath a star-filled sky"
+     width="100%" />
+
+<h3>THE NEXT ITERATION</h3>
+
+<sub>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; IMPROVE</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">02 / MISSION LOG</h3>
+<p align="center"><sub>IDEAS INTO REALITY</sub></p>
+
+**CURRENT PROJECTS**
+
+**HealthMate**
+> Exploring AI-powered tools for understanding health insurance policies and medical bills.
+
+**The Magnolia Feed**
+> Building a modern web experience for a Mississippi creator newsletter.
+
+**Independent Development**
+> Experimenting with software, system architecture, and practical applications.
+
+---
+
+**CURRENTLY LEARNING**
+
+- Computer science fundamentals
+- Linux and operating systems
+- Database design and SQL
+- Full-stack application development
+
+---
+
+**OBJECTIVE**
+
+Understand the system.
+Improve the design.
+Build something meaningful.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+  <sub>ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
+
+</div>
