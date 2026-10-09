@@ -5,13 +5,13 @@
 <p style="text-align: center;">
   "I decline to accept the end of man... I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance."
 </p>
-<sub> 
+<p align="right"><sub> 
 -William Faulkner’s speech at the Nobel Banquet at the City Hall in Stockholm, December 10, 1950
-<sub>
+</sub></p>
 
 <br>
 
-<div align="center">
+<div align="center" padding-top: 20px;>
 
   <sub>BUILD &nbsp; / &nbsp; LEARN &nbsp; / &nbsp; EXPLORE</sub>
 
@@ -70,27 +70,33 @@
 **CURRENT PROJECTS**
 
 **LiturgyStack**
-> APIs for Catholic tech devlopment.
+<ul>
+<li>APIs for Catholic tech devlopment.</li>
+</ul>
 
 **Independent Development**
-> Experimenting with software, system architecture, and practical applications.
+<ul>
+<li>Experimenting with software, system architecture, and practical applications.</li>
+</ul>
 
 ---
 
 **CURRENTLY LEARNING**
-
-- Computer science fundamentals
-- Linux and operating systems
-- Database design and SQL
-- Full-stack application development
+<ul>
+<li> Computer science fundamentals</li>
+<li> Linux and operating systems</li>
+<li> Database design and SQL</li>
+<li> Full-stack application development</li>
+</ul>
 
 ---
 
 **OBJECTIVE**
-
-Understand the system.
-Improve the design.
-Build something meaningful.
+<ul>
+<li>Understand the system.</li>
+<li>Improve the design.</li>
+<li>Build something meaningful.</li>
+</ul>
 
 </td>
 </tr>
@@ -99,6 +105,6 @@ Build something meaningful.
 <div align="center">
 
   <sub>ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
-  <sub>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; IMPROVE</sub>
+  <p>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; IMPROVE</p
 
 </div>
