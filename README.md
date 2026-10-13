@@ -120,3 +120,6 @@
 <div>
   Creds
 </div>
+
+Resources and reference guides that I find handy:
+https://developer.mozilla.org/en-US/
